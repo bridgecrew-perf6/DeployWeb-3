@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! welcome to infosys/h2>
+<h2>Hello World! this is sample app/h2>
 </body>
 </html>
