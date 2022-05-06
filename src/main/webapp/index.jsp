@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! this is sample app/h2>
+<h2>Hello World! welcome to LG Pumpkin/h2>
 </body>
 </html>
